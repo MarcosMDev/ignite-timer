@@ -5,7 +5,7 @@ Project developed during the specialization in ReactJS module 02 at Rocketseat I
 </p>
 
 <p align="center">
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>
 </p>
 
 <p align="center">
