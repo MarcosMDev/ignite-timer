@@ -6,7 +6,6 @@ Project developed during the specialization in ReactJS module 02 at Rocketseat I
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@ Project developed during the specialization in ReactJS module 02 at Rocketseat I
 
 ## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [ReactJS](https://reactjs.org/)
 - [Styled Components](https://styled-components.com/)
@@ -25,7 +24,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node e NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
 
-
-## :memo: License
-
-Esse projeto está sob a licença MIT.
