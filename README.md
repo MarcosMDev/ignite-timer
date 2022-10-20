@@ -5,8 +5,8 @@ Project developed during the specialization in ReactJS module 02 at Rocketseat I
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ Project developed during the specialization in ReactJS module 02 at Rocketseat I
 
 <br>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -26,6 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Vite](https://vitejs.dev/)
 
 
-## :memo: Licença
+## :memo: License
 
 Esse projeto está sob a licença MIT.
