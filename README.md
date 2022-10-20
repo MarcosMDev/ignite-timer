@@ -1,7 +1,7 @@
 <h1 align="center"> Ignite Timer </h1>
 
 <p align="center">
-Project developed during the specialization in ReactJS module 02 at Rocketseat IGNITEs WEB.
+Project developed during the specialization in ReactJS module 02 at Rocketseat IGNITE
 </p>
 
 <p align="center">
